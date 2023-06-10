@@ -36,3 +36,7 @@ li {
   align-items: center;
   justify-content: space-between;
 }
+
+.delete {
+  text-decoration: none;
+}
